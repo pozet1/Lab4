@@ -1,0 +1,4 @@
+public enum KolorEnum
+{
+    CZERWONY,NIEBIESKI,FIOLETOWY,GRANATOWY,CZARNY
+}
